@@ -21,7 +21,7 @@ def current_time_in_delhi_to_milliseconds():
     timestamp_milliseconds = int(delhi_datetime.timestamp() * 1000)
     return timestamp_milliseconds
 
-API_KEY = "4q315nt4h2ieog6jtpe0i8sjhfslngptjbvurl2lrc8c7e6arlghv7socn90m5mg"
+API_KEY = "your_keepa_api_key_.."
 SERVICE_ACCOUNT_FILE = 'gadgetmart4444web-07dcb04c2546.json' 
 SPREADSHEET_ID = '1rW8Ff21XBR4TuO3DEWcaj8iib02RDJ_S0zGqOf8GdhE'  
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets', 'https://www.googleapis.com/auth/drive.file']
