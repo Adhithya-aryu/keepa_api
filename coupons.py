@@ -16,7 +16,7 @@ import io
 import random
 import json
 
-API_KEY = '4q315nt4h2ieog6jtpe0i8sjhfslngptjbvurl2lrc8c7e6arlghv7socn90m5mg'
+API_KEY = "your_keepa_api_key_.."
 API_ENDPOINT = "https://api.keepa.com/product?"
 domain = 10  # Amazon India
 
